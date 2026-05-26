@@ -1,4 +1,4 @@
-# Segundo Parcial – Sistema de Gestión de Clínica Veterinaria
+  # Segundo Parcial – Sistema de Gestión de Clínica Veterinaria
 
 ## Indicaciones Generales
 
