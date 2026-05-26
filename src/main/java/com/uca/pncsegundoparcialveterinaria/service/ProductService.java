@@ -4,7 +4,6 @@ package com.uca.pncsegundoparcialveterinaria.service;
 import com.uca.pncsegundoparcialveterinaria.common.ProductCategory;
 import com.uca.pncsegundoparcialveterinaria.dto.request.ProductRequestDTO;
 import com.uca.pncsegundoparcialveterinaria.dto.response.ProductResponseDTO;
-
 import java.util.List;
 
 public interface ProductService {
